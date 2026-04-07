@@ -8,7 +8,7 @@
 - C
 
 # meios de contato
--email: rafaelshao7@gmail.com 
+-Email: rafaelshao7@gmail.com 
 
 
 
