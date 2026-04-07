@@ -2,7 +2,7 @@
 
 ## Sobre mim 
 - Estudo na USP, entrei em 2026, cursando sistema de informação
-- Gosto de jogar basquete
+- Gosto de jogar basquete 🏀
 
 # Linguagens de programação que eu sei/aprendendo
 - C
